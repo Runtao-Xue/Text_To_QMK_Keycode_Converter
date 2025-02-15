@@ -101,6 +101,6 @@ Pull requests are welcome! Please:
 3. Add Chinese/English prompt support for new features
 
 ## License 📄
-MIT License - See ![LICENSE](https://github.com/jonschlinkert/markdown-link/blob/master/LICENSE) for details
+MIT License - See [LICENSE](https://github.com/jonschlinkert/markdown-link/blob/master/LICENSE) for details
 
-**Pro Tip:** 🔥 Combine with ![QMK Firmware](https://docs.qmk.fm/) to create custom keyboard macros!
+**Pro Tip:** 🔥 Combine with [QMK Firmware](https://docs.qmk.fm/) to create custom keyboard macros!

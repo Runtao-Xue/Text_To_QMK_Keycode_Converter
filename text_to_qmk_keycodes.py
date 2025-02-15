@@ -37,7 +37,7 @@ class Text_To_QMK_Keycodes:
     Transforms input string into QMK-compatible sequence:
     - Handles uppercase via KC_LSFT modifiers
     - Maps symbols to shifted equivalents (e.g., '!' becomes shifted '1')
-9    - Inserts delay wrappers between key events
+    - Inserts delay wrappers between key events
 
     get_input_with_timeout() -> Optional[str]
     Captures input with activity timeout using:

@@ -163,5 +163,5 @@ class Text_To_QMK_Keycodes:
                 break
 
 if __name__ == "__main__":
-    ttqk_object = Text_To_QMK_Keycodes(language='CN')
+    ttqk_object = Text_To_QMK_Keycodes(language='EN')
     ttqk_object.main()
